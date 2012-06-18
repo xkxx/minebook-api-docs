@@ -2,7 +2,8 @@ minebook-api-docs
 =================
 
 This repo is for documentations for the Minebook API and submitting
-issues related to it. For the API specifications, go to the 
+issues related to it. For the API specifications, go to the wiki tab
+https://github.com/xkxx/minebook-api-docs/wiki
 
 Current Status
 --------------
